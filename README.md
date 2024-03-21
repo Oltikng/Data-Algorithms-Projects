@@ -1,9 +1,9 @@
 # Data-Algorithms-Projects
-Programming task Customs
-Memory limit: 5 MB
-Time limit: 2 seconds
-Input file: customs.in
-Output file: customs.out
+- Programming task Customs
++ Memory limit: 5 MB
++ Time limit: 2 seconds
++ Input file: customs.in
++ Output file: customs.out
 
 ## Description
 In recent years, the country ABC fearing the entry of unwanted persons, has changed its policy on
@@ -46,6 +46,7 @@ The input data is correct according to the input data format and given constrain
 ### Input:
 The first line of the input file contains the number of customs officers and the default time for
 processing one person in the form:
+* P_Officers N_Officers P_Time N_Time
 P_Officers defines the number of customs officers [1..99] who control the citizens
 N_Officers defines the number of customs officers [1..99] who control non-citizens
 P_Time defines the default control time [1..100'000] for customs officers who control citizens
