@@ -41,6 +41,7 @@ person who had a lower customs officer's workplace number should be printed.
 is within [1..100'000]. Arrival times or arrival IDs are in the range [1..4'000'000] and are in
 ascending order in the input file.
 The input data is correct according to the input data format and given constraints.
+https://github.com/Oltikng/Data-Algorithms-Projects/issues/1#issue-2201275921
 Customs operation scheme
 ### Input:
 The first line of the input file contains the number of customs officers and the default time for
