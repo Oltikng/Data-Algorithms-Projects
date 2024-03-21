@@ -54,7 +54,9 @@ P_Time defines the default control time [1..100'000] for customs officers who co
 N_Time defines the default control time [1..100'000] for customs officers who control non-
 citizens
 Then follows the number of lines [0.. P_Officers + N_Officers], which specify the time of arrival
-control for a specific customs officer. Each line is in the form
+control for a specific customs officer. Each line is in the form:
+* T Type Officer Time
+
 Type is a single letter that defines the type of customs officer {P, N}, i.e. whether it controls
 citizens (P) or non-citizens (N)
 Officer determines the id number [1..99] of the officer in his type (id of workplace)
