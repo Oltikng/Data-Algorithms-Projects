@@ -1,9 +1,9 @@
 # Data-Algorithms-Projects
-## Programming task Customs
-## Memory limit: 5 MB
-## Time limit: 2 seconds
-## Input file: customs.in
-## Output file: customs.out
+Programming task Customs
+Memory limit: 5 MB
+Time limit: 2 seconds
+Input file: customs.in
+Output file: customs.out
 
 ## Description
 In recent years, the country ABC fearing the entry of unwanted persons, has changed its policy on
