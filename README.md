@@ -79,4 +79,31 @@ If there is no record of arrivals in the input file, then the word "nothing" sho
 quotation marks.
 ### Example:
 The content of input file customs.in :
+
+2 3 10 50
+T P 1 7
+T N 2 80
+P 1
+N 2
+N 10
+N 20
+N 30
+N 40
+P 45
+P 50
+P 53
+N 60
+X
+
 The content of output file customs.out :
+
+1 8
+45 52
+2 52
+53 60
+50 60
+20 70
+10 90
+30 102
+40 120
+60 170
